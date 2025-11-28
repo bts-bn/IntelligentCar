@@ -1,2 +1,2 @@
 # IntelligentCar
-基于stm32f103实现的智能避障小车
+基于stm32f103实现的智能小车
